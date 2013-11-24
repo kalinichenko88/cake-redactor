@@ -1,11 +1,6 @@
-CakePHP-Helpers
+Redactor helper for CakePHP 2.1.*
 ===============
 
-Different helpers for CakePHP for 2.1.*
-
---------------------------
-EditorHelper
---------------------------
 JQuery WYSIWYG html editor for CakePHP. 
 Usage
 In AppController add helper
